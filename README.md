@@ -25,11 +25,11 @@
 * Checked missing values
 * Cleaned column names
 * Visualized correlations using heatmap
-* <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/8e621f0e-9382-486f-b86c-66147dfb6f2b" />
+ <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/8e621f0e-9382-486f-b86c-66147dfb6f2b" />
 
 
 * Analyzed feature relationships using pairplot
-* <img width="559" height="496" alt="image" src="https://github.com/user-attachments/assets/d17e18f3-74c5-4c7d-9c33-5d8ece835c80" />
+ <img width="559" height="496" alt="image" src="https://github.com/user-attachments/assets/d17e18f3-74c5-4c7d-9c33-5d8ece835c80" />
 
 
 
@@ -62,10 +62,10 @@
 The model was evaluated using:
 
 * **Accuracy**
-* <img width="702" height="464" alt="image" src="https://github.com/user-attachments/assets/37450bb4-1981-437d-831a-cd35c21e9cbc" />
+ <img width="702" height="464" alt="image" src="https://github.com/user-attachments/assets/37450bb4-1981-437d-831a-cd35c21e9cbc" />
 
 * **Confusion Matrix**
-* <img width="444" height="393" alt="image" src="https://github.com/user-attachments/assets/326b1c8e-cda1-4007-af3c-1d5d67fe8d51" />
+  <img width="444" height="393" alt="image" src="https://github.com/user-attachments/assets/326b1c8e-cda1-4007-af3c-1d5d67fe8d51" />
 
 * **Precision**
 * **Recall**
