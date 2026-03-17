@@ -25,7 +25,8 @@
 * Checked missing values
 * Cleaned column names
 * Visualized correlations using heatmap
-  <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/8e621f0e-9382-486f-b86c-66147dfb6f2b" />
+* <img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/8e621f0e-9382-486f-b86c-66147dfb6f2b" />
+
 
 * Analyzed feature relationships using pairplot
 * <img width="559" height="496" alt="image" src="https://github.com/user-attachments/assets/d17e18f3-74c5-4c7d-9c33-5d8ece835c80" />
