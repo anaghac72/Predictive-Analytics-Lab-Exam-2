@@ -65,7 +65,9 @@ The model was evaluated using:
  <img width="702" height="464" alt="image" src="https://github.com/user-attachments/assets/37450bb4-1981-437d-831a-cd35c21e9cbc" />
 
 * **Confusion Matrix**
+
   <img width="444" height="393" alt="image" src="https://github.com/user-attachments/assets/326b1c8e-cda1-4007-af3c-1d5d67fe8d51" />
+
 
 * **Precision**
 * **Recall**
